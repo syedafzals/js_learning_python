@@ -24,5 +24,5 @@ console.log(pro.replace('Hyd','khi'.toUpperCase()))
 
 const values=["Ahmed","tahir","GM","sami khan "]
 console.log(values.includes("tahir"))
-let val ="hello-world"
-console.log(val.split("-"))
+let val ="hello,world pakistan, hjhsahd. hdgjdd "
+console.log(val.split("."))
